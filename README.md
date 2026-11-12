@@ -48,3 +48,7 @@ Garima
 
 Python Essentials 1  
 Cisco Networking Academy
+
+## Game Screenshot
+
+![Tic Tac Toe Game](tic_tac_toe.png.png)
